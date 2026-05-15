@@ -1,0 +1,14 @@
+[project]
+name = "inquire"
+version = "0.1.0"
+description = "Inquire — multi-hop Wikipedia research agent via MCP. EAG V3 Assignment 5."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcp[cli]>=1.0",
+    "google-genai>=1.0",
+    "openai>=1.50",
+    "python-dotenv>=1.0",
+    "httpx>=0.25.0",
+    "pydantic>=2.0",
+]
