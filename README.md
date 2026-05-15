@@ -9,7 +9,7 @@ A small MCP-driven agent that answers **chained Wikipedia questions** by decompo
 
 ## YouTube demo
 
-> *To be added after recording.*
+> https://youtu.be/8KIcW_Ryaqk
 
 ---
 
